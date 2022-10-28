@@ -2,6 +2,10 @@ xyx
 demo
 i am editing file
 i am learning git for today
-am done with practice
+<<<<<<< HEAD
+am done with 
 tomm will have again class
 again again am testing
+=======
+am done with practice
+>>>>>>> cb56726 (Update myfirstfile)
